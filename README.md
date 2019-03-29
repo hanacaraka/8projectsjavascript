@@ -8,6 +8,8 @@
 
 :one: Kitten Clock :cat:
 
+[![Kitten-Clock.jpg](https://i.postimg.cc/44PX6GWQ/Kitten-Clock.jpg)](https://postimg.cc/XXZMWRSr)
+
 :two: Number guessing game
 https://mdn.github.io/learning-area/javascript/introduction-to-js-1/first-splash/number-guessing-game-start.html
 
