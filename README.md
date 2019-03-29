@@ -17,27 +17,27 @@ https://mdn.github.io/learning-area/javascript/introduction-to-js-1/first-splash
 https://medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097
 
 :four:
-Responsive Web Design Projects - Build a Tribute Page | Learn freeCodeCamp}
+Responsive Web Design Projects - Build a Tribute Page 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
 :five:
-Responsive Web Design Projects - Build a Survey Form | Learn freeCodeCamp}
+Responsive Web Design Projects - Build a Survey Form 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
 :six:
-Responsive Web Design Projects - Build a Product Landing Page | Learn freeCodeCamp}
+Responsive Web Design Projects - Build a Product Landing Page 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
 
 :seven:
-Responsive Web Design Projects - Build a Technical Documentation Page | Learn freeCodeCamp}
+Responsive Web Design Projects - Build a Technical Documentation Page 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 
 :eight:
-Responsive Web Design Projects - Build a Personal Portfolio Webpage | Learn freeCodeCamp}
+Responsive Web Design Projects - Build a Personal Portfolio Webpage 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage 
 
