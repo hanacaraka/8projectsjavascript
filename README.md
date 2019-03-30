@@ -17,9 +17,12 @@ https://mdn.github.io/learning-area/javascript/introduction-to-js-1/first-splash
 https://medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097
 
 - [x] :four:
-Responsive Web Design Projects - Build a Tribute Page 
+**Responsive Web Design Projects - Build a Tribute Page**
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+:pushpin: **OUTPUT** :rightarrow: **Tribute Page - Sultan Salahuddin Ayubi Rahimahullah**
+https://codepen.io/hanacaraka/full/dLbwxb
 
 - [ ] :five:
 Responsive Web Design Projects - Build a Survey Form 
