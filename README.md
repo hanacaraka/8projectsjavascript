@@ -21,7 +21,7 @@ https://medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adven
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
-:pushpin: **OUTPUT** :right_upper_arrow: **Tribute Page - Sultan Salahuddin Ayubi Rahimahullah**
+:pushpin: **OUTPUT** :arrow_upper_right: **Tribute Page - Sultan Salahuddin Ayubi Rahimahullah**
 https://codepen.io/hanacaraka/full/dLbwxb
 
 - [ ] :five:
