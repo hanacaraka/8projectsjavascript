@@ -16,7 +16,7 @@ https://mdn.github.io/learning-area/javascript/introduction-to-js-1/first-splash
 - [ ] :three: Coding For Absolute Beginners: Choose Your Own Adventure Tutorial
 https://medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097
 
-- [ ] :four:
+- [x] :four:
 Responsive Web Design Projects - Build a Tribute Page 
 
 https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
