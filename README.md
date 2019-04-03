@@ -25,7 +25,7 @@ https://www.freecodecamp.rocks/learn/responsive-web-design/responsive-web-design
 :pushpin: **OUTPUT** :arrow_upper_right: **Tribute Page - Sultan Salahuddin Ayubi Rahimahullah**
 https://codepen.io/hanacaraka/full/dLbwxb
 
-[![screencapture-codepen-io-hanacaraka-full-d-Lbwxb-2019-04-03-15-30.png](https://i.postimg.cc/6qk2k1sj/screencapture-codepen-io-hanacaraka-full-d-Lbwxb-2019-04-03-15-30.png)](https://postimg.cc/MfYpR5pV)
+[![screencapture-codepen-io-hanacaraka-full-d-Lbwxb-2019-04-03-15-39.png](https://i.postimg.cc/jdNLwbJC/screencapture-codepen-io-hanacaraka-full-d-Lbwxb-2019-04-03-15-39.png)](https://postimg.cc/hfDS6Nsq)
 
 
 - [ ] :five:
